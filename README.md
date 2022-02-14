@@ -4,6 +4,15 @@
 
 An alcohol dataset created by scraping <a href="https://drizly.com/">Drizly</a>, an alcohol retail and delivery company.
 
+## Current Progress
+
+<ul>
+ 	<li>Data scraped one of the largest alcohol delivery websites, <a href="https://drizly.com/"><b>Drizly</b></a>, using Python's libraries <em>BeautifulSoup4</em> and <em>Cloudscraper</em></li>
+ 	<li>Performed extensive data cleaning using <em>Excel</em> and <em>SQL</em> in <em>BigQuery</em>, insuring completeness and accuracy of gathered data</li>
+ 	<li>Found outliers in the data by graphing, using <em>Tableau</em> and R's <em>ggplot2</em>, which lead to more data cleaning</li>
+ 	<li><i>To be continued...</i></li>
+</ul>
+
 # Tools Used
 <ul>
 	<li><a href="https://pypi.org/project/beautifulsoup4/">BeautifulSoup4</a></li>
@@ -13,7 +22,7 @@ An alcohol dataset created by scraping <a href="https://drizly.com/">Drizly</a>,
 </ul>
 
   
-With the use of BeautifulSoup4 and Cloudscraper, I was able to gather enough data to create a model
+
 
 # The 5 Ws
 <ol>
